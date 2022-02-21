@@ -1,0 +1,7 @@
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\bin\Debug\DesafioAdicional.exe.config
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\bin\Debug\DesafioAdicional.exe
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\bin\Debug\DesafioAdicional.pdb
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\obj\Debug\DesafioAdicional.csproj.SuggestedBindingRedirects.cache
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\obj\Debug\DesafioAdicional.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\obj\Debug\DesafioAdicional.exe
+D:\AprendendoCSharp\AprendendoCSharp\DesafioAdicional\obj\Debug\DesafioAdicional.pdb

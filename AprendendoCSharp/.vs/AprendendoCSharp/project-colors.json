@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "314c6a68-e81f-44ae-a567-09baa4e3ce3e": {
+      "ProjectGuid": "314c6a68-e81f-44ae-a567-09baa4e3ce3e",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "0d61f46e-70bb-4c9c-9cdc-1effab745685": {
+      "ProjectGuid": "0d61f46e-70bb-4c9c-9cdc-1effab745685",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "ab2e47f2-3b42-42a4-9bed-25e84770bcfd": {
+      "ProjectGuid": "ab2e47f2-3b42-42a4-9bed-25e84770bcfd",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 2
+    },
+    "36faed23-2b28-44a0-99b4-0f543452adcd": {
+      "ProjectGuid": "36faed23-2b28-44a0-99b4-0f543452adcd",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 3
+    },
+    "3c06552d-8599-47e0-944e-67afa826ae8a": {
+      "ProjectGuid": "3c06552d-8599-47e0-944e-67afa826ae8a",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 4
+    },
+    "bdfdfd65-bb70-4441-8461-64fa52791965": {
+      "ProjectGuid": "bdfdfd65-bb70-4441-8461-64fa52791965",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 5
+    },
+    "e3a9bf28-b138-48a5-8946-99bcdc2b13dd": {
+      "ProjectGuid": "e3a9bf28-b138-48a5-8946-99bcdc2b13dd",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 6
+    },
+    "57b49598-3923-4c9d-85ab-b2d106abedf0": {
+      "ProjectGuid": "57b49598-3923-4c9d-85ab-b2d106abedf0",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 7
+    },
+    "6e0f53d1-677a-47ce-98ac-4e40b81be4c6": {
+      "ProjectGuid": "6e0f53d1-677a-47ce-98ac-4e40b81be4c6",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 8
+    },
+    "612faa6b-d2b4-4fa1-8b80-ee07a1262845": {
+      "ProjectGuid": "612faa6b-d2b4-4fa1-8b80-ee07a1262845",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "02c7f985-1a5f-466b-b2ab-839d3e8280a4": {
+      "ProjectGuid": "02c7f985-1a5f-466b-b2ab-839d3e8280a4",
+      "DisplayName": "P10-CalculaPoupança",
+      "ColorIndex": 10
+    },
+    "b0f5c4c9-2395-490e-9741-9cebb8631a5e": {
+      "ProjectGuid": "b0f5c4c9-2395-490e-9741-9cebb8631a5e",
+      "DisplayName": "P11-CalculaPoupança2",
+      "ColorIndex": 11
+    },
+    "744ebd45-980b-452c-bfed-cb0d057fa28d": {
+      "ProjectGuid": "744ebd45-980b-452c-bfed-cb0d057fa28d",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 12
+    },
+    "1d9585d4-80cb-437a-9dbc-241bb8b99dd2": {
+      "ProjectGuid": "1d9585d4-80cb-437a-9dbc-241bb8b99dd2",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 13
+    },
+    "985d8c73-fe01-45a6-8e6d-f0c351aefbc4": {
+      "ProjectGuid": "985d8c73-fe01-45a6-8e6d-f0c351aefbc4",
+      "DisplayName": "DesafioAdicional",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

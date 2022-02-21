@@ -1,0 +1,8 @@
+D:\AprendendoCSharp\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+D:\AprendendoCSharp\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe
+D:\AprendendoCSharp\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.pdb
+D:\AprendendoCSharp\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csproj.SuggestedBindingRedirects.cache
+D:\AprendendoCSharp\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.exe
+D:\AprendendoCSharp\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.pdb

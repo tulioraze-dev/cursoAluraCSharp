@@ -1,0 +1,7 @@
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.exe.config
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.exe
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.pdb
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.csproj.SuggestedBindingRedirects.cache
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.exe
+D:\AprendendoCSharp\AprendendoCSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.pdb

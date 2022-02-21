@@ -1,0 +1,7 @@
+D:\AprendendoCSharp\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+D:\AprendendoCSharp\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+D:\AprendendoCSharp\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+D:\AprendendoCSharp\Exercicio\Exercicio\obj\Debug\Exercicio1.csproj.SuggestedBindingRedirects.cache
+D:\AprendendoCSharp\Exercicio\Exercicio\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+D:\AprendendoCSharp\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
