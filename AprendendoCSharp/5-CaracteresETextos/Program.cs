@@ -13,7 +13,7 @@ namespace _5_CaracteresETextos
             Console.WriteLine("Executando Projeto 5 - Caracteres e Texto");
 
 
-            char primeiraLetra = 'a';
+            char primeiraLetra = 'A';
             Console.WriteLine(primeiraLetra);
 
             primeiraLetra = (char)65;
